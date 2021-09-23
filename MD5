@@ -1,0 +1,17 @@
+66277846755da65de42d03a0d36c3b74 *DESCRIPTION
+1e265cc8bd94495906863de366f15eb0 *NAMESPACE
+ba351d254f7619ccecb98fe3fc471a39 *R/hier_sphd.R
+73148624c9211b437c8c66e3451e78a8 *R/misc.R
+4a6a92ad763d095a337d2a1f17d5d781 *R/semiparametric_sdr.R
+db2c83bcb0fd09ca2076433b87c85110 *R/simulate_data.R
+814803631dd4e7ec8b3578e0ec8c86c5 *R/utils.R
+11f728ed990bfbc283390486dcaab970 *R/zzz.R
+64d280bf64508a8a16da7d7d33763cfa *README.md
+cb158c722a27d5ae12db931c75e47b87 *man/angle.Rd
+9b98ae484c94f6feb5b826484189758c *man/hier.phd.nt.Rd
+17512fcceb28952ac591d2768e992bc3 *man/hier.sphd.Rd
+71fa8332b41829de78063bcf2e0e3c33 *man/phd.Rd
+150f7021de91e22c021c463d9467ebd9 *man/plot.Rd
+ed080184eee81a6f6573d447687c01e1 *man/projnorm.Rd
+dcc495290bc76bfb9573576482b84b64 *man/semi.phd.Rd
+5772041a1fc274ca2fc3fc735617e9eb *man/simulate_data.Rd
